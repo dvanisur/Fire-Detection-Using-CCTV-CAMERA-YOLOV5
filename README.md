@@ -1,1 +1,1 @@
-# Fire-Detection-Using-CCTV-CAMERA-YOLOV5
+# Fire-Detection-Using-CCTV-Camera-YOLOV5
